@@ -1,4 +1,4 @@
-var launchDate = 'Mar 08, 2023';
+var launchDate = 'Feb 27, 2023';
 function getTimeRemaining(endtime) {
   var t = endtime - new Date().getTime();
   var seconds = Math.floor((t / 1000) % 60);

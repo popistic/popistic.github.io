@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'MontserratAlternates'; 
+	src: url('../fonts/MontserratAlternates-Regular.ttf');
+}
+
+body, html {
+	font-family: 'MontserratAlternates', sans-serif;
+	font-size: 15px;
+	color: #666666;
+
+	height: 100%;
+	background-color: #fff;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background: url('../images/bg.webp');
+	background-size: cover;
+}
+
+.text-orange {
+    color: #ffa620;
+}
+
+.bg-cream {
+    background-color: rgba(247, 242, 235, 0.9);
+}
+
+.countdown .card-body{
+    padding: 0.5rem 0;
+}
+
+.countdown .card-body p{
+    font-size: 1.3rem;
+}
+
+.countdown .card-body span{
+    font-size: 0.8rem;
+}
+
+.bg-pink{
+    background-color: #ff66c4;
+}
+
+.text-decoration-underline{
+    text-decoration: underline;
+}
+
+.logo-size{
+    height: 8rem;
+}
